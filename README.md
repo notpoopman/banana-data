@@ -1,2 +1,2 @@
 # banana-data
-Labeled-ish banana dataset
+Labeled-ish COCO style banana dataset
